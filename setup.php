@@ -13,8 +13,8 @@
 
 // Configuration
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_USER', 'cybor432_erpdegree');
+define('DB_PASS', 'tPJ$=]pJ^s)4');
 define('DB_NAME', 'cybor432_erpnew');
 
 // Display settings
