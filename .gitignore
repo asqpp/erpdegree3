@@ -1,0 +1,21 @@
+# Large database backups
+assets/data/outgoing/backup.sql
+*.sql
+
+# Archives
+*.7z
+*.zip
+*.tar.gz
+*.rar
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+error_log
+*.log

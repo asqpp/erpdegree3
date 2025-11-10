@@ -1,0 +1,16 @@
+[14-Aug-2023 09:22:03 America/Chicago] PHP Fatal error:  Cannot redeclare Report_model::getCommissionReportList() in /home1/cybor432/erpdegree/erp/application/modules/report/models/Report_model.php on line 1100
+[14-Aug-2023 09:22:46 America/Chicago] PHP Fatal error:  Cannot redeclare Report_model::getCommissionReportList() in /home1/cybor432/erpdegree/erp/application/modules/report/models/Report_model.php on line 1100
+[08-Dec-2023 07:05:55 America/Chicago] PHP Fatal error:  Cannot redeclare Commission_model::salesman_commission_list() in /home1/cybor432/erpdegree/erp/application/modules/commission/models/Commission_model.php on line 83
+[08-Dec-2023 07:11:55 America/Chicago] PHP Fatal error:  Cannot redeclare Commission_model::salesman_commission_list() in /home1/cybor432/erpdegree/erp/application/modules/commission/models/Commission_model.php on line 83
+[06-Jan-2024 06:39:37 America/Chicago] PHP Fatal error:  Cannot use $this as parameter in /home1/cybor432/erpdegree/erp/application/modules/parseinvoice/controllers/Parseinvoice.php on line 216
+[06-Jan-2024 06:40:23 America/Chicago] PHP Fatal error:  Cannot use $this as parameter in /home1/cybor432/erpdegree/erp/application/modules/parseinvoice/controllers/Parseinvoice.php on line 216
+[08-Jan-2024 06:22:40 America/Chicago] PHP Fatal error:  Cannot redeclare Payment_model::customer_search() in /home1/cybor432/erpdegree/erp/application/modules/payment/models/Payment_model.php on line 608
+[08-Jan-2024 06:23:43 America/Chicago] PHP Fatal error:  Cannot redeclare Payment_model::customer_search() in /home1/cybor432/erpdegree/erp/application/modules/payment/models/Payment_model.php on line 608
+[08-Jan-2024 06:23:46 America/Chicago] PHP Fatal error:  Cannot redeclare Payment_model::customer_search() in /home1/cybor432/erpdegree/erp/application/modules/payment/models/Payment_model.php on line 608
+[15-Aug-2024 13:43:20 America/Chicago] PHP Fatal error:  Cannot declare class Broker, because the name is already in use in /home1/cybor432/erpdegree/erp/application/modules/broker/models/Broker_model.php on line 0
+[16-Aug-2024 01:06:33 America/Chicago] PHP Fatal error:  Cannot declare class Broker, because the name is already in use in /home1/cybor432/erpdegree/erp/application/modules/broker/models/Broker_model.php on line 0
+[16-Aug-2024 07:37:56 America/Chicago] PHP Fatal error:  Cannot declare class Broker, because the name is already in use in /home1/cybor432/erpdegree/erp/application/modules/broker/models/Broker_model.php on line 0
+[16-Aug-2024 07:38:02 America/Chicago] PHP Fatal error:  Cannot declare class Broker, because the name is already in use in /home1/cybor432/erpdegree/erp/application/modules/broker/models/Broker_model.php on line 0
+[16-Aug-2024 07:39:56 America/Chicago] PHP Fatal error:  Cannot declare class Broker, because the name is already in use in /home1/cybor432/erpdegree/erp/application/modules/broker/models/Broker_model.php on line 0
+[20-Aug-2024 13:13:30 America/Chicago] PHP Fatal error:  Cannot redeclare Salesman_model::salesman_list() in /home1/cybor432/erpdegree/erp/application/modules/salesman/models/Salesman_model.php on line 409
+[20-Aug-2024 13:13:54 America/Chicago] PHP Fatal error:  Cannot redeclare Salesman_model::salesman_list() in /home1/cybor432/erpdegree/erp/application/modules/salesman/models/Salesman_model.php on line 409
