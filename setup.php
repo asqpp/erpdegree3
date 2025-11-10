@@ -222,7 +222,7 @@ set_time_limit(300); // 5 minutes timeout
                     <?php
                     $steps = [];
                     $errors = [];
-                    $total_steps = 7;
+                    $total_steps = 8;
                     $current_step = 0;
 
                     // Step 1: Connect to MySQL
@@ -359,6 +359,25 @@ set_time_limit(300); // 5 minutes timeout
                         }
                     }
 
+                    // Step 8: Additional Modules (Receipts, Debit/Credit Notes, Permissions, Backup)
+                    if (empty($errors)) {
+                        updateProgress(($current_step / $total_steps) * 100);
+                        echo renderStep(++$current_step, "Creating Additional Module Tables", "pending");
+                        flush();
+                        ob_flush();
+
+                        try {
+                            $sql_file = __DIR__ . '/database/06_receipt_payment_debit_credit_notes.sql';
+                            if (file_exists($sql_file)) {
+                                executeSQLFile($conn, $sql_file);
+                                updateStep($current_step, "success", "Additional module tables created (Receipts, Debit/Credit Notes, Permissions, Backup)");
+                            }
+                        } catch (Exception $e) {
+                            updateStep($current_step, "error", $e->getMessage());
+                            $errors[] = $e->getMessage();
+                        }
+                    }
+
                     updateProgress(100);
 
                     // Show completion status
@@ -368,7 +387,7 @@ set_time_limit(300); // 5 minutes timeout
                             <div class="completion-icon">✓</div>
                             <h2 style="color: #2d3748; margin-bottom: 10px;">Installation Complete!</h2>
                             <p style="color: #718096; margin-bottom: 30px;">
-                                Database <code><?php echo DB_NAME; ?></code> is ready with 135+ tables
+                                Database <code><?php echo DB_NAME; ?></code> is ready with 150+ tables
                             </p>
 
                             <div class="stats">
