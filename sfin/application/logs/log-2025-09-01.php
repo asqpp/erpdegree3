@@ -1,0 +1,40 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-09-01 03:43:02 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 03:43:03 --> Severity: Warning --> A non-numeric value encountered /home1/cybor432/erpdegree/erp/application/modules/dashboard/views/home/home.php 452
+ERROR - 2025-09-01 14:43:07 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:44:04 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:44:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 276
+ERROR - 2025-09-01 14:44:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 297
+ERROR - 2025-09-01 14:46:23 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:47:01 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:47:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 276
+ERROR - 2025-09-01 14:47:01 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 297
+ERROR - 2025-09-01 14:47:13 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:47:20 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:47:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 276
+ERROR - 2025-09-01 14:47:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 297
+ERROR - 2025-09-01 14:48:04 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:48:11 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:48:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 276
+ERROR - 2025-09-01 14:48:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 297
+ERROR - 2025-09-01 14:48:53 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:49:00 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:49:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 276
+ERROR - 2025-09-01 14:49:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 297
+ERROR - 2025-09-01 14:49:50 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:49:58 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:49:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 276
+ERROR - 2025-09-01 14:49:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 297
+ERROR - 2025-09-01 14:50:22 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:51:27 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:51:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 276
+ERROR - 2025-09-01 14:51:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 297
+ERROR - 2025-09-01 14:52:14 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:52:22 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:52:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 276
+ERROR - 2025-09-01 14:52:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 297
+ERROR - 2025-09-01 14:52:57 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:53:08 --> Severity: Warning --> file_get_contents(): Filename cannot be empty /home1/cybor432/erpdegree/erp/application/modules/template/controllers/Template.php 30
+ERROR - 2025-09-01 14:53:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 276
+ERROR - 2025-09-01 14:53:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/cybor432/erpdegree/erp/application/modules/invoice/views/edit_invoice_form.php 297
